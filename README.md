@@ -20,7 +20,7 @@ The goal of this repo is to document my progress, deepen my understanding of **s
 
 - [x] Chapter 1 – Introduction
 - [x] Chapter 2 – Statistical Learning
-- [ ] Chapter 3 – Linear Regression
+- [x] Chapter 3 – Linear Regression
 - [ ] Chapter 4 – Classification
 - [ ] Chapter 5 – Resampling Methods
 - [ ] Chapter 6 – Model Selection an Regularization
