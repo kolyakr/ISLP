@@ -22,7 +22,7 @@ The goal of this repo is to document my progress, deepen my understanding of **s
 - [x] Chapter 2 – Statistical Learning
 - [x] Chapter 3 – Linear Regression
 - [x] Chapter 4 – Classification
-- [ ] Chapter 5 – Resampling Methods
+- [x] Chapter 5 – Resampling Methods
 - [ ] Chapter 6 – Model Selection an Regularization
 - [ ] Chapter 7 – Moving beyond linearity
 - [ ] Chapter 8 – Tree-based Methods
