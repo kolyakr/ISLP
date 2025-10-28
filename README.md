@@ -24,7 +24,7 @@ The goal of this repo is to document my progress, deepen my understanding of **s
 - [x] Chapter 4 – Classification
 - [x] Chapter 5 – Resampling Methods
 - [x] Chapter 6 – Model Selection an Regularization
-- [ ] Chapter 7 – Moving beyond linearity
+- [x] Chapter 7 – Moving beyond linearity
 - [ ] Chapter 8 – Tree-based Methods
 - [ ] Chapter 9 – Support Vector Machines
 - [ ] Chapter 10 – Deep Learning
