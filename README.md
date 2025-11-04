@@ -26,7 +26,7 @@ The goal of this repo is to document my progress, deepen my understanding of **s
 - [x] Chapter 6 – Model Selection an Regularization
 - [x] Chapter 7 – Moving beyond linearity
 - [x] Chapter 8 – Tree-based Methods
-- [ ] Chapter 9 – Support Vector Machines
+- [x] Chapter 9 – Support Vector Machines
 - [ ] Chapter 10 – Deep Learning
 - [ ] Chapter 11 – Survival Analysis and Censored Data
 - [ ] Chapter 12 – Unsupervised Learning
